@@ -25,7 +25,7 @@ Inspiré du CMS 99ko, il conserve une philosophie axée sur la simplicité et la
 
 ## Screenshots
 
-![Screenshot of 299Ko](./doc/screenshots/example.jpg)
+![Screenshot of 299Ko](./doc/screenshots/screenshot.png)
 
 ## Documentation and resources
 

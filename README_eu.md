@@ -25,7 +25,7 @@ Inspiré du CMS 99ko, il conserve une philosophie axée sur la simplicité et la
 
 ## Pantaila-argazkiak
 
-![299Ko(r)en pantaila-argazkia](./doc/screenshots/example.jpg)
+![299Ko(r)en pantaila-argazkia](./doc/screenshots/screenshot.png)
 
 ## Dokumentazioa eta baliabideak
 
