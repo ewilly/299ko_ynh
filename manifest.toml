@@ -48,6 +48,7 @@ ram.runtime = "50M"
     sha256 = "7f71860f2f451cf37782b7bc34e9eee29d27b85c138dda8b65781f3f72768b96"
 
     autoupdate.strategy = "latest_github_tag"
+    autoupdate.upstream = "https://github.com/299Ko/299ko"
 
     [resources.system_user]
 
