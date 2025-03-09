@@ -25,7 +25,7 @@ Inspiré du CMS 99ko, il conserve une philosophie axée sur la simplicité et la
 
 ## 截图
 
-![299Ko 的截图](./doc/screenshots/example.jpg)
+![299Ko 的截图](./doc/screenshots/screenshot.png)
 
 ## 文档与资源
 
