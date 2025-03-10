@@ -18,7 +18,7 @@ No se debe editar a mano.
 
 ## Descripción general
 
-299Ko is a lightweight and fast French CMS (content management system). Inspired by the CMS 99ko, it retains a philosophy focused on simplicity and ease of use. This free software allows anyone to create their own website, blog, image gallery, and much more, without requiring programming knowledge.
+299Ko is a lightweight and fast French CMS (Content Management System). Inspired by the CMS 99ko, it retains a philosophy focused on simplicity and ease of use. This free software allows anyone to create their own website, blog, image gallery, and much more, without requiring programming knowledge.
 
 
 **Versión actual:** 2.0.0~ynh1
