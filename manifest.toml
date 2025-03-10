@@ -4,8 +4,8 @@ packaging_format = 2
 
 id = "299ko"
 name = "299Ko"
-description.en = "Simple, fast & lightweight PHP flat-file CMS"
-description.fr = "CMS PHP simple, rapide et léger"
+description.en = "Simple, fast & lightweight flat-file CMS"
+description.fr = "CMS simple, rapide et léger"
 
 version = "2.0.0~ynh1"
 
@@ -24,6 +24,7 @@ architectures = "all"
 multi_instance = true
 
 ldap = false
+
 sso = false
 
 disk = "650M"
@@ -42,8 +43,6 @@ ram.runtime = "50M"
     type = "user"
 
     [install.password]
-    help.en = "Use the help field to add an information for the admin about this question."
-    help.fr = "Utilisez le champ aide pour ajouter une information à l'intention de l'administrateur à propos de cette question."
     type = "password"
 
 [resources]
